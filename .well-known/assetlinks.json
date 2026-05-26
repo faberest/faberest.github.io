@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nutrition.nu",
+    "sha256_cert_fingerprints": [
+      "1D:BB:33:FE:74:82:F9:47:0F:E1:D6:9B:05:76:9E:BF:41:BE:97:45:6A:CF:79:EE:EA:E1:6A:CF:6D:0D:EF:CA"
+    ]
+  }
+}]
